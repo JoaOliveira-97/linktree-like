@@ -1,0 +1,25 @@
+img {
+	border-radius: 50px 0 50px 0;
+}
+
+a {
+	display: block;
+	background-color: white;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 20px;
+	color: slateblue;
+	padding: 10px;
+	margin: 10px;
+}
+
+body {
+	background-color: slateblue;
+	text-align: center;
+	font-family: trebuchet ms;
+	color: white;
+}
+
+h2 {
+	font-size: 18px;
+}
